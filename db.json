@@ -1,0 +1,124 @@
+{
+    "menu":[
+        {
+            "id":1,
+            "nombre":"Pizza Pequeña",
+            "categoria":1,
+            "precio":10
+        },
+        {
+            "id":2,
+            "nombre":"Pizza Mediana",
+            "categoria":1,
+            "precio":15
+        },
+        {
+            "id":3,
+            "nombre":"Pizza Grande",
+            "categoria":1,
+            "precio":20
+        },
+        {
+            "id":4,
+            "nombre":"Pie de limon",
+            "categoria":2,
+            "precio":5
+        },
+        {
+            "id":5,
+            "nombre":"Pie de parchita",
+            "categoria":2,
+            "precio":5
+        },
+        {
+            "id":6,
+            "nombre":"Torta de chocolate",
+            "categoria":2,
+            "precio":5
+        },
+        {
+            "id":7,
+            "nombre":"Torta de Fresa",
+            "categoria":2,
+            "precio":5
+        },
+        {
+            "id":8,
+            "nombre":"Jugo de Naranja",
+            "categoria":3,
+            "precio":2
+        },
+        {
+            "id":9,
+            "nombre":"Jugo de fresa",
+            "categoria":3,
+            "precio":2
+        },
+        {
+            "id":10,
+            "nombre":"Jugo de parchita",
+            "categoria":3,
+            "precio":2
+        },
+        {
+            "id":11,
+            "nombre":"Chuleta ahumada",
+            "categoria":4,
+            "precio":6
+        },
+        {
+            "id":12,
+            "nombre":"Pollo en brasa",
+            "categoria":4,
+            "precio":6
+        },
+        {
+            "id":13,
+            "nombre":"Carne en Vara",
+            "categoria":4,
+            "precio":6
+        },
+        {
+            "id":14,
+            "nombre":"Cafe",
+            "categoria":5,
+            "precio":2
+        },
+        {
+            "id":15,
+            "nombre":"Late Vainilla",
+            "categoria":5,
+            "precio":2
+        },
+        {
+            "id":16,
+            "nombre":"Capuchino",
+            "categoria":5,
+            "precio":2
+        },
+        {
+            "id":17,
+            "nombre":"Helado de fresa",
+            "categoria":2,
+            "precio":2
+        },
+        {
+            "id":18,
+            "nombre":"Helado de Chocolate",
+            "categoria":2,
+            "precio":2
+        },
+        {
+            "id":19,
+            "nombre":"Banana Split ",
+            "categoria":2,
+            "precio":4
+        },
+        {
+            "id":20,
+            "nombre":"Helado mantecado",
+            "categoria":2,
+            "precio":4
+        }
+    ]
+}
